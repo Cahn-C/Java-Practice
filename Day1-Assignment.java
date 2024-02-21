@@ -15,7 +15,7 @@ public class Assignments {
 		// Assignment 2
 		// Write a Java program to print the sum of two numbers
 		
-		int num1 = 4;
+		int num1 = 10;
 		int num2 = 36;
 		int result = num1 + num2;
 		
